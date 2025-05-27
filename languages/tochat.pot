@@ -1,0 +1,111 @@
+# Copyright (C) 2025 Tochat.be
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tochat.be Widget 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tochatbe-widget\n"
+"POT-Creation-Date: 2025-05-27 05:28:18+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/admin/class-tochat-admin-scripts.php:59
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:15
+#. translators: %s: Plugin name.
+msgid "%s Settings"
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:27
+msgid "Add Your Widget Key"
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:32
+#. translators: %s: Documentation URL.
+msgid "Create your account <a href=\"%s\">here</a>."
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:37
+msgid "Exclude By Pages or Posts"
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:46
+msgid "Select pages or posts on which you want to exclude the widget."
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:56
+msgid "Add Widget on Specific Pages or Posts"
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:62
+#: includes/admin/views/html-settings-page.php:101
+msgid "Your Widget Key"
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:63
+msgid "Select Page or Post"
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:64
+#: includes/admin/views/html-settings-page.php:103
+msgid "Action"
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:85
+#: includes/admin/views/html-settings-page.php:124
+msgid "Add Row"
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:90
+msgid "Select pages or posts on which you want to add the widget."
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:95
+msgid "Add Widget on Specific URLs"
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:102
+msgid "URL"
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:129
+msgid "Add URLs on which you want to add the widget."
+msgstr ""
+
+#: includes/admin/views/html-settings-page.php:139
+msgid "Add Widget For Internal Use"
+msgstr ""
+
+#: includes/tochat-functions.php:59
+msgid "Select"
+msgstr ""
+
+#: includes/tochat-functions.php:66 includes/tochat-functions.php:100
+msgid "Remove"
+msgstr ""
+
+#: includes/tochat-functions.php:97
+msgid "Use * for wildcard. Like, https://domain.com/en/*"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Tochat.be Widget"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://tochat.be/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Customer service and sales via WhatsApp"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tochat.be"
+msgstr ""
